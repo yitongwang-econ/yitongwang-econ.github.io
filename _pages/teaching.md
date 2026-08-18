@@ -31,12 +31,12 @@ author_profile: true
 ### Department of Economics, Texas A&M University
 
 * **ECON 460**: Introduction to Mathematical Economics, Fall 2026 & Fall 2025
+* **ECON 323**: Microeconomic Theory, Fall 2026 & Fall 2025 & Summer 2025
 * **ECON 410**: Intermediate Macroeconomic Theory, Summer 2026
-* **ECON 323**: Microeconomic Theory, Summer 2025 & Fall 2025
-* **ECMT 461**: Economic Data Analysis, Spring 2024 & Spring 2025
-* **ECON 311**: Money & Banking, Fall 2022 & Fall 2024
+* **ECMT 461**: Economic Data Analysis, Spring 2025 & Spring 2024
+* **ECON 311**: Money & Banking, Fall 2024 & Fall 2022
+* **ECON 203**: Principles of Economics, Summer 2024 & Summer 2023
 * **ECON 459**: Games & Economic Behavior, Fall 2022
-* **ECON 203**: Principles of Economics, Summer 2023 & Summer 2024
 
 ### School of International Trade and Economics, University of International Business and Economics
 
