@@ -7,5 +7,8 @@ redirect_from:
   - /home.html
 ---
 
-I am a Ph.D. candidate in the Department of Economics at Texas A&M University. I’m on the 26-27 job market.
+I am a 5th year Ph.D. student in the [Department of Economics](https://econ.tamu.edu/) at Texas A&M University. My research interests include public finance, international trade, applied microeconomics, and mechanism design.
 
+**I am on the 2026–2027 academic job market.**
+
+You can find my [CV](/cv/) (or download the [PDF version](/files/cv_Yitong.pdf)).
