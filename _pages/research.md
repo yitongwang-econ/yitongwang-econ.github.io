@@ -8,11 +8,11 @@ author_profile: true
 
 ## Working Papers
 
-### Export Rebates, Firm Formalization, and Production Networks (Job Market Paper)
+### Export Rebates (Job Market Paper)
 
-[[Draft coming soon](#)]
+[[Draft](#)]
 
-**Abstract:** Abstract text goes here...
+**Abstract:** 
 
 ---
 
@@ -20,4 +20,4 @@ author_profile: true
 
 [[Latest Draft](/files/jmp.pdf)]
 
-**Abstract:** Abstract text goes here...
+**Abstract:** 
