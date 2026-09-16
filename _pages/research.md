@@ -9,8 +9,7 @@ author_profile: true
 
 ## Working Papers
 
-### Refund Frictions and the Transmission of Export VAT Rebates
-*(with Li Gan and Siyuan Zeng)*  
+### Refund Frictions and the Transmission of Export VAT Rebates *(with Li Gan and Siyuan Zeng)*  
 **Job Market Paper**  
 [[Draft](/files/jmp.pdf)]
 
@@ -25,16 +24,14 @@ author_profile: true
 
 ---
 
-### Should the Government Subsidize Firms or Households?
-*(with Li Gan and Yuzhe Zhang)*  
+### Should the Government Subsidize Firms or Households? *(with Li Gan and Yuzhe Zhang)*  
 [Draft available upon request]
 
 **Abstract:** This study focuses on the determinants of fiscal allocation between households and firms during the COVID-19 pandemic. Using data from 33 countries provided by the IMF, this paper finds that government budget, income inequality, and severity of COVID are all positively related to the ratio of household subsidies to firm subsidies. To theoretically explore these relationships, we develop a simple static model whose predictions align with our empirical findings. To capture the dynamic and nonlinear impacts of these factors, we then extend the model to a dynamic framework. This dynamic model allows us to quantify the extent to which these factors can explain the variation in fiscal allocation.
 
 ---
 
-### The Optimal Inflation Rate
-*(with Shenghao Zhu)*  
+### The Optimal Inflation Rate *(with Shenghao Zhu)*  
 [Draft available upon request]
 
 **Abstract:** We derive an optimal inflation rate schedule in an infinite-horizon Aiyagari-Bewley-Huggett economy with idiosyncratic risk in labor income and investment income. First, we solve the Mean-Field Games with HJB and KFE equations and find that the wealth distribution in a special case with two income types has a generalized Pareto tail, along with a Dirac mass point at the lower boundary with low income. Second, the optimal inflation rate can be expressed in terms of sufficient statistics using a perturbation method. Third, an upwind scheme algorithm is designed to verify the theory and match empirical data. In an extension, we build a model with firms and an endogenous labor market to derive the relationship between the inflation rate, social welfare, and inequality.
