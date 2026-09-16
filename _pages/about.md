@@ -7,7 +7,7 @@ redirect_from:
   - /home.html
 ---
 
-I am a 5th year Ph.D. student in the [Department of Economics](https://econ.tamu.edu/) at Texas A&M University. My research interests include public finance, international trade, applied microeconomics, and mechanism design.
+I am a 5th year Ph.D. student in the [Department of Economics](https://econ.tamu.edu/) at Texas A&M University. My research interests include public finance, international trade, mechanism design, and macroeconomics.
 
 **I am on the 2026–2027 academic job market.**
 
