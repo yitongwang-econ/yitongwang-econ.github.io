@@ -10,6 +10,7 @@ author_profile: true
 ## Working Papers
 
 ### Refund Frictions and the Transmission of Export VAT Rebates
+*(with Li Gan and Siyuan Zeng)*  
 **Job Market Paper**  
 [[Draft](/files/jmp.pdf)]
 
