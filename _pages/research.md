@@ -18,6 +18,7 @@ author_profile: true
 ---
 
 ### Optimal Research Contracting with Observable Firm Characteristics
+*Under Review at International Journal of Industrial Organization (IJIO)*
 [[Draft](/files/research_contracting.pdf)]
 
 **Abstract:** Government research funding programs face a fundamental challenge: firms' true research ability is private information. This paper shows that mechanisms based on observable firm characteristics (OFC) significantly improve the performance of NASA’s Small Business Innovation Research (SBIR) program. Empirically, I find that patent intensity and past SBIR success rates are strong positive predictors of research ability, yet they receive minimal weight in the current contract. Moreover, the optimal OFC mechanism captures 61% of potential government payoff gains—defined as the gap between the pooling benchmark and the first-best—compared to only 5% under the current contract. These improvements arise primarily from reallocating budget resources away from high-ability firms, which would participate regardless, and toward lower-ability firms with higher participation elasticities.
