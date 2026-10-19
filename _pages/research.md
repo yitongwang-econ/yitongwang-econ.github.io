@@ -9,9 +9,9 @@ author_profile: true
 
 ## Working Papers
 
-### Refund Frictions and the Transmission of Export VAT Rebates *(with Li Gan and Siyuan Zeng)*  
+### Export VAT Rebates and Their Delivery: Evidence from China’s 2015 Rebate Rate Increase *(with Li Gan and Siyuan Zeng)*  
 **Job Market Paper**  
-[[Draft](/files/jmp.pdf)]
+[Draft coming soon]
 
 **Abstract:** How a tax incentive is paid can matter as much as its size. China raised export VAT rebate rates on 1,258 products in 2015. But firms received the increase in two ways, depending on their tax position: as an immediate cut in VAT owed, or as a refund paid on average 133 days later. Using the National Tax Survey Database and customs data in a triple-difference design, we find that refund-dependent firms respond less. They expand exports half as much, and their equipment response is indistinguishable from zero. A delayed refund costs the firm two things. Its present value is 98.2 percent of face value, and that discount explains only 3.9 percent of the export gap. It also comes too late to finance current production, since the firm holds the cash about half as many days as an immediate rebate. The rest of the gap is consistent with this working-capital friction. Firms that were financially tighter before the reform respond more strongly, but only where the rebate arrives immediately. A model calibrated to refund timing and balance sheets matches the estimated responses. Faster refunds and borrowing against pending claims each restore nearly the full response.
 
