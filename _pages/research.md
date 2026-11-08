@@ -25,6 +25,13 @@ author_profile: true
 
 ---
 
+
+### Strategic Dependence and De-risking 
+[Draft available upon request]
+
+**Abstract:** I examine how U.S. tariffs reshape its dependence on China in strategic goods. Combining product-level trade data with multiregional input-output tables, I find that tariffs primarily target goods where U.S. dependence on China is high. An event-study analysis shows that tariffs reduce direct dependence without a corresponding increase in indirect dependence through third countries.
+
+---
 ### Should the Government Subsidize Firms or Households? *(with Li Gan and Yuzhe Zhang)*  
 [Draft available upon request]
 
