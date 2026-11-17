@@ -11,7 +11,7 @@ author_profile: true
 
 ### Export VAT Rebates and Their Delivery: Evidence from China’s 2015 Rebate Rate Increase *(with Li Gan and Siyuan Zeng)*  
 **Job Market Paper**  
-[Draft coming soon]
+[[Draft](/files/JMP_YitongWang_ExportRebate.pdf)]
 
 **Abstract:** Export VAT rebates and how quickly they are delivered both matter for firms' responses. We develop a model in which higher rebate rates reduce marginal exporting costs and encourage quality upgrading, while refund delays reduce the present value of rebates and tie up working capital. Using China's 2015 rebate rate increase and city-level variation in refund delays, we employ a triple-difference design. First, higher rebate rates increase both export quantities and prices, with evidence of quality upgrading. Second, refund delays weaken the quantity response and raise the price response, with little evidence that they affect quality upgrading. These effects are concentrated among financially constrained firms, suggesting that working-capital frictions, rather than discounting, are the primary mechanism. The calibrated model shows that an additional 1.5 months of waiting reduces refund cash available for working capital by nearly one-third but lowers its present value by only 0.6 percentage points. Counterfactuals show that immediate refunds would nearly double the export response, while pledge loans can achieve comparable gains.
 
